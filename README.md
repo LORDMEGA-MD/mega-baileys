@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>EliteProTech-Baileys</h1>
+  <h1>Mega-Baileys</h1>
   <p>A WebSocket-based JavaScript library for interacting with the WhatsApp Web API</p>
   
-  [![npm version](https://img.shields.io/npm/v/eliteprotech-baileys.svg)](https://www.npmjs.com/package/eliteprotech-baileys)
-  [![npm downloads](https://img.shields.io/npm/dm/eliteprotech-baileys.svg)](https://www.npmjs.com/package/eliteprotech-baileys)
-  [![License](https://img.shields.io/npm/l/eliteprotech-baileys.svg)](https://github.com/mauricegift/eliteprotech-baileys/blob/main/LICENSE)
+  [![npm version](https://img.shields.io/npm/v/mega-baileys.svg)](https://www.npmjs.com/package/mega-baileys)
+  [![npm downloads](https://img.shields.io/npm/dm/mega-baileys.svg)](https://www.npmjs.com/package/mega-baileys)
+  [![License](https://img.shields.io/npm/l/eliteprotech-baileys.svg)](https://github.com/LORDMEGA-MD/mega-baileys/blob/main/LICENSE)
 </div>
 
 ## Disclaimer
@@ -14,19 +14,19 @@ This project is not affiliated, associated, authorized, endorsed by, or in any w
 ## Installation
 
 ```bash
-npm install eliteprotech-baileys
+npm install mega-baileys
 ```
 
 ## Quick Start
 
 ### CommonJS (Recommended)
 ```javascript
-const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('eliteprotech-baileys')
+const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('mega-baileys')
 ```
 
 ### ES Modules / TypeScript
 ```javascript
-import pkg from 'eliteprotech-baileys'
+import pkg from 'mega-baileys'
 const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 ```
 
